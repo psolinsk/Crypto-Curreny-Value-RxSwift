@@ -1,0 +1,6 @@
+framework module Pods_Crypto_Currency_Value {
+  umbrella header "Pods-Crypto Currency Value-umbrella.h"
+
+  export *
+  module * { export * }
+}
